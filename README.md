@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hinrich
-- 👀 I’m interested in web development and the techonologies that surrounds it. I'm also interested in pursuing gamedev in the future, but only if I have some spare time.
-- 🌱 I’m currently learning advanced javascript, React, and maybe Next.js or Node in the future. 
+- 👀 I’m interested in web development and the techonologies that surrounds it.
+- 🌱 I’m currently learning advanced javascript, React with material UI, and maybe Gatsby or Node in the future. 
 - 💞️ I’m looking to collaborate on any webdev stuff as long as I think I can contribute.
 - 📫 How to reach me: johnhinrichggalindo@gmail.com
 
