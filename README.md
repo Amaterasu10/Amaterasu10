@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Hinrich
-- 👀 I’m interested in web development and the techonologies that surrounds it.
+- 💻 I’m interested in web development and the techonologies that surrounds it.
 - 🌱 I’m currently learning advanced javascript and React. 
-- ⚒  I am currently building my own portfolio website using Vite-React and Tailwind CSS. I am also practicing by recreating my old project in Vite-React-typscript.
+- 🧱 I am currently building my own portfolio website using Vite-React and Tailwind CSS. 
+- 🥊 I am also practicing by recreating my old project in Vite-React-typscript.
 <!-- - ⚒  I am currently building my own portfolio website using react. -->
 <!--- 💞️ I’m looking to collaborate on any webdev stuff as long as I think I can contribute. --->
 - 📫 How to reach me: johnhinrichggalindo@gmail.com
