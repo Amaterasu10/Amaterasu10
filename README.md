@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hinrich
 - 💻 I’m interested in web development and the techonologies that surrounds it.
-- 🌱 I’m currently learning advanced javascript and React. 
+- 🌱 I’m currently learning advanced React.js and Typscript. 
 - 🧱 I am currently building my own portfolio website using Vite-React and Tailwind CSS. 
 - 🥊 I am also practicing by recreating my old project in Vite-React-typscript.
 <!-- - ⚒  I am currently building my own portfolio website using react. -->
