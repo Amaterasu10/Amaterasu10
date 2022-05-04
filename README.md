@@ -9,8 +9,9 @@
 
 - 👋 Hi, I’m Hinrich
 - 💻 I’m interested in web development and the techonologies that surrounds it.
-- 🌱 I’m currently learning advanced React.js and Typscript by recreating my old project in Vite-React-typscript.
+- 🌱 I’m currently learning React.js and Typscript by recreating my old project in Vite-React-typscript.
 - 🧱 I am also currently building my own portfolio website using Vite-React and Tailwind CSS. 
+- 🔗 This is the link to my portfolio hinrich.netlify.app. It doesn't have much content at the moment since I just started working with it.
 - 📫 How to reach me: johnhinrichggalindo@gmail.com
 
 
