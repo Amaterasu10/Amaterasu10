@@ -11,7 +11,9 @@
 - 💻 I’m interested in web development and the techonologies that surrounds it.
 - 🌱 I’m currently learning React.js and Typscript by recreating my old project in Vite-React-typscript.
 - 🧱 I am also currently building my own [portfolio website](https://hinrich.netlify.app) using Vite-React and Tailwind CSS. I just started with it so it doesn't have much content at the moment. 
-- 📫 How to reach me: johnhinrichggalindo@gmail.com
+- 📫 How to reach me: 
+  * johnhinrichggalindo@gmail.com
+  * [Linkedin](https://www.linkedin.com/in/john-hinrich-joseph-galindo-2149b0201/)
 
 
 <!---
